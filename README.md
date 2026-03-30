@@ -12,7 +12,7 @@ Keyboard Support: Fully functional via mouse clicks or numeric keypad input.
 
 Responsive Design: Optimized for both desktop and mobile screens.
 
-🛠️ Tech Stack
+🛠️ Tech Stack 
 HTML5: Semantic structure for the calculator interface.
 
 CSS3: Custom styling with Flexbox/Grid for a modern look.
