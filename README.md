@@ -4,7 +4,7 @@ A lightweight, responsive calculator built entirely with Vanilla JavaScript, HTM
 🚀 Features
 Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
 
-Decimal Precision: Handles floating-point calculations accurately.
+Decimal Precision: Handles floating-point calculations accurately.   
 
 Clear & Delete: Includes functionality to clear the entire display or delete the last entered digit.
 
