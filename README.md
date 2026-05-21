@@ -20,3 +20,6 @@ CSS3: Custom styling with Flexbox/Grid for a modern look.
 JavaScript (ES6+): Logic for calculations, event listeners, and UI updates.
 
 Official Link:https://ajana1055.github.io/Simple_Calculator-JS-/
+
+
+<img width="751" height="795" alt="Screenshot 2026-05-21 200922" src="https://github.com/user-attachments/assets/1a53cb21-878f-45d0-814a-533cbf018a6d" />
